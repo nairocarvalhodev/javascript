@@ -1,2 +1,2 @@
 # javascript
- javascript Cv
+Curso de javascript Cv
